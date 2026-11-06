@@ -223,7 +223,7 @@ Follow these steps.
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/20vaidehiv-lgtm/GitHub-profile-finder
 ```
 
 ### 2. Navigate to the Project Folder
@@ -324,9 +324,6 @@ Building, learning, experimenting, and turning ideas into projects. 💜
 
 <div align="center">
 
-### ⭐ Found this project interesting?
-
-Give the repository a star!
 
 **Keep Exploring. Keep Building. Keep Learning.**
 
